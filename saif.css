@@ -213,7 +213,7 @@ body{
 
 }
 .help-div1 p{
-    font-size: 25px;
+    font-size: 23px;
     margin: 20px 5px;
     color: #838383;
 }
@@ -228,7 +228,6 @@ body{
     padding: 15px;
     border-radius: 5px;
 }
-
 .help-div2{
     width: 50%;
     margin-left: 5%;
@@ -237,5 +236,47 @@ body{
 .help-div2 img{
     max-width: 80%;
     height: 500px;
+    border-radius: 5px;
+}
+
+
+.help2{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.help2-div1{   
+    width: 50%;
+    margin-left: 5%;
+}
+.help2-div1 img{
+    max-width: 100%;
+    height: 500px;
+    border-radius: 5px;
+
+}
+.help2-div2{
+    width: 40%;
+
+
+}
+.help2-div2 h1{
+    font-size: 50px;
+    margin: 20px 5px;
+}
+.help2-div2 p{
+    font-size: 23px;
+    margin: 20px 5px;
+    color: #838383;
+}
+.help2-div2 span{
+    color: white;
+    background-color: #FF5959;
+    font-size: 25px;
+    font-weight: 600;
+    display: inline-block;
+
+    margin-top: 10px;
+    padding: 15px;
     border-radius: 5px;
 }
