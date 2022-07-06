@@ -300,8 +300,8 @@ body{
 }
 
 .mail{
-    padding: 50px 100px;
-    margin: 20px auto;
+    padding: 80px 90px;
+    margin: 50px auto;
     background-color: #FFF4D6;
     width: 50%;
 }
@@ -324,10 +324,20 @@ body{
 
 }
 
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 15px 0;
+}
+.footer p{
+    color: red;
+    font-size: 25px;
+}
 
-
-
-
+.footer span{
+    color: white;
+    font-size: 20px;
+}
 
 
 
