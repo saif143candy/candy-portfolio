@@ -55,7 +55,7 @@ body{
 }
 .amount{
     display: flex;
-    margin-left: 300px;
+    justify-content: center;
     margin-top: 30px;
     
 }
@@ -134,10 +134,8 @@ body{
 .donate-table{
     display: flex;
     margin-top: 50px;
-    margin-left: 150px;
-    
-    
-    
+    justify-content: center;
+
 }
 
 .Donation-div-1{
@@ -200,6 +198,7 @@ body{
 .help{
     display: flex;
     margin-left: 150px;
+    justify-content: center;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -242,6 +241,7 @@ body{
 
 .help2{
     display: flex;
+    justify-content: center;
     margin-top: 100px;
     margin-bottom: 50px;
 }
@@ -256,8 +256,8 @@ body{
 
 }
 .help2-div2{
-    width: 40%;
-
+    width: 38%;
+    margin-right: 2%;
 
 }
 .help2-div2 h1{
